@@ -480,7 +480,7 @@ nav .fa-sharp{
 
     }
     nav ul{
-background:var(--main-color);
+background: var(--text-color);
 position: fixed;
 top: 0;
 right:-200px;
